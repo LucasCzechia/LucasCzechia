@@ -1,16 +1,33 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/176538803" alt="Profile Image" width="175" height="175">
+</p>
+
+<h1 align="center">Hi there, I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+
 # 💫 About Me:
 
-👋 Hi, I'm Lucas from 🇨🇿 Czech Republic!
+<p align="center">
 
-🔭 I am currently working on **BoltBot⚡**, an AI chatbot for Discord. Check it out at [boltbot.app](https://boltbot.app)!
+- 👋 Hi! I'm Lucas, 19 from the Czech Republic 🇨🇿. Obsessed with coding, AI, and Discord bots.
 
-👯 I’m looking to collaborate on open-source projects, particularly those related to AI.
+- 🤖 I love creating Discord Bots and exploring the edge of AI is my favorite thing do, make sure to check out my bot BoltBot⚡!
 
-🌱 I’m currently diving deeper into AI technologies.
+- 🌐 I really like making new friends and chatting. I also use Discord alot in my free time, feel free to DM me at any time!
+</p>
 
-💬 Ask me about web dev, CLI tools, or anything AI related!
+## 🤖 BoltBot⚡ Discord Bot
 
-⚡ Fun fact: I love experimenting with the latest AI trends.
+<p align="center">
+  <img src="https://assets-global.website-files.com/623b578041aa1f5fc6e3adc2/623cd760c8b26764b350c5f6_Scaling%20%26%20Automating%20Moderation%20and%20Community%20Support.svg" alt="BoltBot Image">
+  <br>
+  <a href="https://discord.com/oauth2/authorize?client_id=1159810149268078702&permissions=0&scope=bot%20applications.commands">
+    <img src="https://img.shields.io/badge/Invite-BoltBot⚡-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Invite BoltBot">
+  </a>
+</p>
+
+<p align="center">
+  Unleash the power of GPT-4o & Gemini on Discord with BoltBot⚡! Engage in seamless conversations, get instant assistance, and enjoy AI-powered experiences, all within your favorite chat. All for *FREE*!
+</p>
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/pr1ncx)
