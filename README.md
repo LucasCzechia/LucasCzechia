@@ -4,6 +4,12 @@
 
 <h1 align="center">Hi there, I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
+
+## 🌐 Socials:
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/pr1ncx)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vibranq)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasCzechia) 
+
 # 💫 About Me:
 
 <p align="center">
@@ -28,11 +34,6 @@
 <p align="center">
   Unleash the power of GPT-4o & Gemini on Discord with BoltBot⚡! Engage in seamless conversations, get instant assistance, and enjoy AI-powered experiences, all within your favorite chat. All for *FREE*!
 </p>
-
-## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/pr1ncx)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vibranq)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasCzechia)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,html,css,react,nextjs,vercel,linux,git,github,figma&)](https://skillicons.dev)
