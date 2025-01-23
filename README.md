@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/176538803" alt="Profile Image" width="175" height="175">
 </p>
 
-<h1 align="center">Hi there, I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hi there, I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
 # 💫 About Me:
 
