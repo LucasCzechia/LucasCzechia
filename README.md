@@ -3,8 +3,11 @@
 👋 Hi, I'm Lucas from 🇨🇿 Czech Republic!
 
 🔭 I am currently working on **BoltBot⚡**, an AI chatbot for Discord. Check it out at [boltbot.app](https://boltbot.app)!
+
 👯 I’m looking to collaborate on open-source projects, particularly those related to AI.
+
 🌱 I’m currently diving deeper into AI technologies.
+
 💬 Ask me about web dev, CLI tools, or anything AI related!
 
 ⚡ Fun fact: I love experimenting with the latest AI trends.
